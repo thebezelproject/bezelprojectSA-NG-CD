@@ -9,4 +9,4 @@ The bezel packs are used in a RetroPie build for providing game bezels.
 
 The graphics in this repository follow the following design.
 
-![Sample bezel](https://github.com/thebezelproject/bezelprojectSA-NG-CD/blob/master/retroarch/overlay/GameBezels/NG-CD/Breakers%20(Japan).png?raw=true)
+![Sample bezel](https://github.com/thebezelproject/bezelprojectSA-NG-CD/blob/master/retroarch/overlay/GameBezels/NG-CD/Breakers%20(Japan)%20(En,Ja).png?raw=true)
